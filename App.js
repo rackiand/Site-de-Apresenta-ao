@@ -36,7 +36,7 @@ function App() {
           <li>Python</li>
           <li>Flask</li>
           <li>React</li>
-          {/* Adicione outras habilidades */}
+          {/* Adicionar outras habilidades */}
         </ul>
       </section>
 
