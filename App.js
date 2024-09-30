@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css'; // Certifique-se de que o caminho para o CSS esteja correto
+import './App.css'; 
 
 function App() {
   return (
